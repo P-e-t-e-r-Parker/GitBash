@@ -30,7 +30,6 @@
 ===
 # ! /bin/bash 
 
-
 cd /c/test10_01_22
 mkdir d_1 d_2 d_3
 cd d_1
