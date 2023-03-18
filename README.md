@@ -1,4 +1,4 @@
-## HomeWork
+## HomeWork 1
  ### [Ссылка на  выполненное задание](https://github.com/P-e-t-e-r-Parker/GitBash/blob/main/Terminal_HW1.txt)
 1) Посмотреть где я 
 2) Создать папку    
