@@ -28,9 +28,8 @@
 ===
 ./script1.sh === запуск скрипта 
 ===
-#! /bin/bash 
+# ! /bin/bash 
 
-# комментарий
 
 cd /c/test10_01_22
 mkdir d_1 d_2 d_3
