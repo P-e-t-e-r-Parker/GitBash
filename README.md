@@ -1,3 +1,6 @@
+## HomeWork
+### Выполненное Задание
+[Results Link](https://github.com/P-e-t-e-r-Parker/GitBash/blob/main/Terminal_HW1.txt)
 1) Посмотреть где я 
 2) Создать папку    
 3) Зайти в папку   
